@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emresen20&label=Profile%20views&color=0e75b6&style=flat" alt="emresen20" /> </p>
 
 - 🔭 I’m currently working on mobile developer and i using React Native
--  I also develop Android modules and have experience with Firebase.
+-  I also develop Android modules and have experience with Firebase and have experience with Google Play and Google play Console.
 
 - 📫 How to reach me **emreium@gmail.com**
 <a href="https://play.google.com/store/apps/details?id=com.denizlimoyunu&pcampaignid=web_share" style="display: inline-block;">
