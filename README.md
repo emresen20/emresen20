@@ -7,10 +7,11 @@
 -  I also develop Android modules and have experience with Firebase.
 
 - 📫 How to reach me **emreium@gmail.com**
-- <a href="https://play.google.com/store/apps/details?id=com.denizlimoyunu&pcampaignid=web_share">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play Store" style="width: 200px;"/>
+<a href="https://play.google.com/store/apps/details?id=com.denizlimoyunu&pcampaignid=web_share" style="display: inline-block;">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play Store" style="width: 150px; vertical-align: middle;"/>
+  <span style="vertical-align: middle;">My Game</span>
 </a>
-<p>My Game</p>
+
 
 - 📄 Know about my experiences [www.emreshen.com.tr](www.emreshen.com.tr)
 
